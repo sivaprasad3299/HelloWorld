@@ -1,0 +1,9 @@
+git config --global user.email "sivaprasad.github@mail.com"
+git config --global user.name "sivaprasad3299"
+git status
+git add
+git commit -m "Message"
+
+git remote add origin https://github.com/sivaprasad3299/HelloWorld.git
+
+git push -u origin master
